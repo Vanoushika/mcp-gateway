@@ -1,0 +1,1 @@
+{"note":"Remote http servers are accepted from Day 2; see remote_server.json for an example registration.","servers":[{"description":"Built-in tools running inside the gateway.","kind":"local","name":"local"}]}
