@@ -1,0 +1,1 @@
+{"description":"Example remote MCP server (replace the URL with a real one).","kind":"http","name":"weather","note":"Register a remote MCP server with: curl -X POST http://127.0.0.1:8000/servers -H 'Content-Type: application/json' -d @examples/remote_server.json","timeout_seconds":10.0,"url":"http://127.0.0.1:9000/mcp"}
